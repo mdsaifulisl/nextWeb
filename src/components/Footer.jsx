@@ -4,7 +4,7 @@ import footerVideo from '../assets/footer.mp4'
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 const Footer = () => {
   return (
-    <div className="footer">
+    <div className="footer py-5">
            
           {/* Background Video */}
           <video

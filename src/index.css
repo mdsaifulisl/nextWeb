@@ -62,7 +62,7 @@ p {
   color: #ffd700 !important;
 }
 
-.hero{
+.hero {
   height: 100vh;
   width: 100%;
   display: flex;
@@ -168,16 +168,16 @@ p {
   justify-content: center;
 }
 
-
 .what-you-gat-item .icon {
   font-size: 100px;
-  transition: transform 0.3s ease, color 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    color 0.3s ease;
 }
-.what-you-gat-item:hover .icon{
+.what-you-gat-item:hover .icon {
   transform: scale(1.1);
   color: #46a6a2;
 }
-
 
 /* ================= */
 .what-you-gat,
@@ -209,7 +209,8 @@ p {
     font-size: 18px;
   }
 
-  .hero_contant {
+  .hero_contant,
+  .footer_contant {
     width: 100%;
   }
   .hero_contant .logo {
@@ -221,4 +222,15 @@ p {
   .what-you-gat {
     height: 100%;
   }
+  .what-you-gat,
+  .service,
+  .about {
+    height: 100%;
+    
+  }
+  .footer {
+  height: 100%;
+  
+}
+
 }
