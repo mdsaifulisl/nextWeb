@@ -14,7 +14,7 @@ const WhatYouGat = () => {
               </div>
             </div>
 
-            <h6 className="color-turquoise">Customized to your business,</h6>
+            <h6 className="color-turquoise">Customized to your business</h6>
 
 
 

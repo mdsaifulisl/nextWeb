@@ -1,5 +1,8 @@
 import React from "react";
-import service1 from "../assets/client.jpg";
+import service2 from "../assets/client2.jpg"
+import service1 from "../assets/client3.jpg"
+import service3 from "../assets/client4.jpg"
+
 const Services = () => {
   return (
     <div className="service py-5">
@@ -17,7 +20,7 @@ const Services = () => {
 
           <div className="col-lg-4 col-md-6 col-12">
             <div className="client-img text-center">
-              <img src={service1} alt="Client" />
+              <img src={service2} alt="Client" />
             </div>
             <div className="service-content mt-5">
               <h5>Web Design & Development</h5>
@@ -26,7 +29,7 @@ const Services = () => {
 
           <div className="col-lg-4 col-md-6 col-12">
             <div className="client-img text-center">
-              <img src={service1} alt="Client" />
+              <img src={service3} alt="Client" />
             </div>
             <div className="service-content mt-5">
               <h5>SEO Optimization, App building</h5>
