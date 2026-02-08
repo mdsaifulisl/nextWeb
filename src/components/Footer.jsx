@@ -34,9 +34,9 @@ const Footer = () => {
                     <div className="contact-grou">
                       <h6 className="color-gold">Social:</h6>
                       <div className="social-icons d-flex gap-3 align-items-center">
-                        <a href="#" className="fs-3 text-white hover:text-gold transition-colors"><FaFacebook /></a>
-                        <a href="#" className="fs-3 text-white hover:text-gold transition-colors"><FaTwitter /></a>
-                        <a href="#" className="fs-3 text-white hover:text-gold transition-colors"><FaInstagram /></a>
+                        <a href="https://www.facebook.com/share/1Ny5Rhr29h/" className="fs-3 text-white hover:text-gold transition-colors"><FaFacebook /></a>
+                        <a href="https://www.facebook.com/share/1Ny5Rhr29h/" className="fs-3 text-white hover:text-gold transition-colors"><FaTwitter /></a>
+                        <a href="https://www.facebook.com/share/1Ny5Rhr29h/" className="fs-3 text-white hover:text-gold transition-colors"><FaInstagram /></a>
                       </div>
                     </div>
                 </div>
