@@ -1,4 +1,5 @@
 import { IoCloudUpload, IoEyeSharp } from "react-icons/io5";
+import { PiPuzzlePieceDuotone } from "react-icons/pi";
 
 const WhatYouGat = () => {
   return (
@@ -10,7 +11,7 @@ const WhatYouGat = () => {
 
             <div className="what-you-gat-item mb-4">
               <div className="icon">
-                <IoCloudUpload />
+                <PiPuzzlePieceDuotone />
               </div>
             </div>
 
